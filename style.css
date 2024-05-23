@@ -1,0 +1,40 @@
+.font1{  font-family: Alex Brush;
+    font-size: 5vw;
+    color: aliceblue;
+    text-shadow: 0px 0px 30px rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+}        
+
+.opções{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 2%;
+}
+
+.font2{ text-align: center;
+    font-family: Oranienbaum;
+    margin-top: 4%;
+
+}
+
+.titulo1{ color: black;
+    font-size: 2vw;
+}
+
+.sobretitulo{ color: gray;
+    font-size: 2vw;
+}
+
+.imagens1{ display: flex;
+    justify-content: space-around;
+    margin-top: 3%;
+    font-family: Oranienbaum;
+    font-size: 150%;
+}
+
+.texto{ display: flex;
+    justify-content: space-around;
+
+}
